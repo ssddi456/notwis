@@ -1,0 +1,63 @@
+extends ../../views/layout-nav
+
+
+block content
+  .top-nav
+    .content-body-wrap
+      .brand ccportal
+
+  .panel-login.bs-docs-area
+    .label login
+    .form-horizontal 
+      .control-group
+        label.control-label username
+        .controls
+          input(type="text",data-bind="value:username")
+      .control-group
+        label.control-label password
+        .controls
+          input(type="text",data-bind="value:password")
+      .control-group
+        .controls
+          button.btn(data-bind="click:login") login
+
+  .panel-regist.bs-docs-area
+    .label regist
+    .form-horizontal 
+      .control-group
+        label.control-label username
+        .controls
+          input(type="text",data-bind="value:username")
+      .control-group
+        label.control-label password
+        .controls
+          input(type="text",data-bind="value:password")
+      .control-group
+        label.control-label confirm password
+        .controls
+          input(type="text",data-bind="value:password2")
+      .control-group
+        .controls
+          button.btn(data-bind="click:regist") regist
+
+  .panel-content
+    .bs-docs-area
+      .label input phone number
+      .control-group(data-bind="css:{warning:phoneWarning,success:phoneSuccess}")
+        .form-inline
+          .input-append
+            input.span2#appendedInputButton(type="text",data-bind="value:searchNumber")
+            button.btn(type="button",data-bind="click:searchUserInfo") Go!
+          .help-inline(data-bind="text:errorInfo")
+    // ko if:curUser
+    .bs-docs-area
+      .label user info
+    // /ko
+    // ko if:productInfo
+    .bs-docs-area
+      .label product info
+    // /ko
+append css
+  link(href="notwis/skin/notwis.less",rel="stylesheet",type="text/css")        
+append js
+  script(data-main='notwis/source/app.js',src="lib/require.js")
