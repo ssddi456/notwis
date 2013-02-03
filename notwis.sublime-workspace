@@ -1,0 +1,1498 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"g",
+				"g_paused"
+			],
+			[
+				"nam",
+				"namespace"
+			],
+			[
+				"nm",
+				"namespacefilter"
+			],
+			[
+				"un",
+				"unbind"
+			],
+			[
+				"fn",
+				"_final"
+			],
+			[
+				"app",
+				"apply"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"tim",
+				"timestamp"
+			],
+			[
+				"na",
+				"namespace"
+			],
+			[
+				"ty",
+				"type"
+			],
+			[
+				"name",
+				"namespace"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"o",
+				"oeproto"
+			],
+			[
+				"fi",
+				"_final"
+			],
+			[
+				"no",
+				"NODE_MODULES_LIST"
+			],
+			[
+				"a",
+				"actions"
+			],
+			[
+				"req",
+				"req	require fs, utils"
+			],
+			[
+				"fl",
+				"followings"
+			],
+			[
+				"m",
+				"multi"
+			],
+			[
+				"ud",
+				"userid"
+			],
+			[
+				"get",
+				"getFollowers"
+			],
+			[
+				"po",
+				"posts"
+			],
+			[
+				"ui",
+				"uid"
+			],
+			[
+				"p",
+				"posts"
+			],
+			[
+				"fo",
+				"modelFollow"
+			],
+			[
+				"mo",
+				"modelUsers"
+			],
+			[
+				"u",
+				"modelUsers"
+			],
+			[
+				"s",
+				"smembers"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"btn",
+				"btn-group"
+			],
+			[
+				"ch",
+				"chapter"
+			],
+			[
+				"line",
+				"lines"
+			],
+			[
+				"set",
+				"setSticks"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"x",
+				"xby"
+			],
+			[
+				"st",
+				"sticksColor"
+			],
+			[
+				"cha",
+				"chapters"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"y",
+				"ytext"
+			],
+			[
+				"cur",
+				"curbook"
+			],
+			[
+				"ar",
+				"attr"
+			],
+			[
+				"cl",
+				"colw"
+			],
+			[
+				"r",
+				"rowh"
+			],
+			[
+				"_",
+				"_data"
+			],
+			[
+				"an",
+				"animatetime"
+			],
+			[
+				"ap",
+				"apply"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"ti",
+				"timeline"
+			],
+			[
+				"c",
+				"chapter"
+			],
+			[
+				"C",
+				"Chapter"
+			],
+			[
+				"gr",
+				"groupBy"
+			],
+			[
+				"mongo",
+				"mongodb"
+			],
+			[
+				"da",
+				"day"
+			],
+			[
+				"h",
+				"hover"
+			],
+			[
+				"to",
+				"toKoArray"
+			],
+			[
+				"B",
+				"Book"
+			],
+			[
+				"b",
+				"books"
+			],
+			[
+				"boo",
+				"book"
+			],
+			[
+				"ex",
+				"exec"
+			],
+			[
+				"js",
+				"json"
+			],
+			[
+				"shw",
+				"showChapters"
+			],
+			[
+				"e",
+				"exit"
+			],
+			[
+				"pro",
+				"process"
+			],
+			[
+				"ct",
+				"createStatus"
+			],
+			[
+				"co",
+				"connection"
+			],
+			[
+				"shel",
+				"shellTool"
+			],
+			[
+				"op",
+				"openShell"
+			],
+			[
+				"sh",
+				"shellTool"
+			],
+			[
+				"inc",
+				"increase"
+			],
+			[
+				"fa",
+				"fails"
+			],
+			[
+				"d",
+				"dones"
+			],
+			[
+				"lo",
+				"loadlib"
+			],
+			[
+				"t",
+				"t	typeCheck"
+			],
+			[
+				"save",
+				"saved"
+			],
+			[
+				"new",
+				"newChaptersId"
+			],
+			[
+				"do",
+				"dones"
+			],
+			[
+				"Chap",
+				"chapter"
+			],
+			[
+				"exi",
+				"exist"
+			],
+			[
+				"CH",
+				"Chapter"
+			],
+			[
+				"par",
+				"parts"
+			],
+			[
+				"loa",
+				"loadLib"
+			],
+			[
+				"n",
+				"noproxy"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"err",
+				"errs"
+			],
+			[
+				"com",
+				"compare"
+			],
+			[
+				"ce",
+				"checkBookUpdate"
+			],
+			[
+				"ma",
+				"map"
+			],
+			[
+				"fal",
+				"fail"
+			],
+			[
+				"oldC",
+				"oldChapterIds"
+			],
+			[
+				"newCH",
+				"newChapter"
+			],
+			[
+				"old",
+				"oldChapterIds"
+			],
+			[
+				"ne",
+				"newChapters"
+			],
+			[
+				"chap",
+				"chapters"
+			],
+			[
+				"la",
+				"lastModify"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"bi",
+				"bookinfo"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"ha",
+				"hassocket"
+			],
+			[
+				"ga",
+				"gallerise"
+			],
+			[
+				"I",
+				"Indexs"
+			],
+			[
+				"sa",
+				"stats"
+			],
+			[
+				"te",
+				"testGallery"
+			],
+			[
+				"don",
+				"done"
+			],
+			[
+				"xia",
+				"xiamiDownloader"
+			],
+			[
+				"in",
+				"info"
+			],
+			[
+				"so",
+				"songid"
+			],
+			[
+				"son",
+				"song"
+			],
+			[
+				"i",
+				"info"
+			],
+			[
+				"rq",
+				"require"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"sog",
+				"songs"
+			],
+			[
+				"el",
+				"elips"
+			],
+			[
+				"wi",
+				"wiki"
+			],
+			[
+				"ba",
+				"base"
+			],
+			[
+				"w",
+				"writeFile"
+			],
+			[
+				"is",
+				"isDirectory"
+			],
+			[
+				"isF",
+				"isFile"
+			],
+			[
+				"copyF",
+				"copyFile"
+			],
+			[
+				"isf",
+				"isfile"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"th",
+				"then"
+			],
+			[
+				"pr",
+				"processes"
+			],
+			[
+				"em",
+				"emit"
+			],
+			[
+				"fu",
+				"funcs"
+			],
+			[
+				"func",
+				"funcs"
+			],
+			[
+				"ke",
+				"keys"
+			],
+			[
+				"fun",
+				"funs"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "action/regist.js",
+			"settings":
+			{
+				"buffer_size": 1135,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "action/post.js",
+			"settings":
+			{
+				"buffer_size": 481,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "action/showpost.js",
+			"settings":
+			{
+				"buffer_size": 500,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "action/follow.js",
+			"settings":
+			{
+				"buffer_size": 461,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "action/unfollow.js",
+			"settings":
+			{
+				"buffer_size": 470,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "action/profile.js",
+			"settings":
+			{
+				"buffer_size": 720,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "model/model-follow.js",
+			"settings":
+			{
+				"buffer_size": 1216,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/ec.js",
+			"settings":
+			{
+				"buffer_size": 2821,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/JavaScript/Javascript.sublime-build",
+	"command_palette":
+	{
+		"height": 152.0,
+		"selected_items":
+		[
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"packac",
+				"Package Control: Remove Package"
+			],
+			[
+				"cmd",
+				"open cur file path cmd"
+			],
+			[
+				"com",
+				"Toggle Comment"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"hex",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"fo",
+				"Format: Javascript"
+			],
+			[
+				"CMD",
+				"open cur file path cmd"
+			],
+			[
+				"cnd",
+				"Package Control: Disable Package"
+			],
+			[
+				"v8",
+				"V8: Show Console"
+			],
+			[
+				"defa",
+				"Preferences: Settings - Default"
+			],
+			[
+				"cm",
+				"open cur file path cmd"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"fi",
+				"File: New View into File"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"fomar",
+				"Format: Javascript"
+			],
+			[
+				"fomat",
+				"Format: Javascript"
+			],
+			[
+				"wrap",
+				"Zen Coding: Wrap zen as you type"
+			],
+			[
+				"lint",
+				"JSLint: Run JSLint"
+			],
+			[
+				"line",
+				"Sort Lines (Case Sensitive)"
+			],
+			[
+				"aline",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"alig",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pacakge",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"packap",
+				"Package Control: Disable Package"
+			],
+			[
+				"test",
+				"create script test Page "
+			],
+			[
+				"crea",
+				"create script test Page "
+			],
+			[
+				"open",
+				"open cur file path cmd"
+			],
+			[
+				"oe",
+				"open cmd in curfile path"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"console",
+				"V8: Show Console"
+			],
+			[
+				"wra",
+				"Zen Coding: Wrap zen as you type"
+			],
+			[
+				"wr",
+				"Zen Coding: Wrap zen as you type"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"zen",
+				"Set Syntax: ZenCoding"
+			],
+			[
+				"wrapo",
+				"Zen Coding: Wrap zen as you type"
+			],
+			[
+				"zend",
+				"Zen Coding: Wrap zen as you type"
+			],
+			[
+				"build",
+				"Build: Cancel"
+			],
+			[
+				"remoce",
+				"Package Control: Remove Package"
+			],
+			[
+				"package ",
+				"Package Control: Remove Package"
+			],
+			[
+				"ipackage",
+				"Package Control: Disable Package"
+			],
+			[
+				"unin",
+				"Snippet: unbind"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"align",
+				"Preferences: Alignment File Settings – Default"
+			],
+			[
+				"jslin",
+				"JSLint: Run JSLint"
+			],
+			[
+				"zenc",
+				"Zen Coding: Wrap zen as you type"
+			],
+			[
+				"cre",
+				"create script test Page "
+			],
+			[
+				"create",
+				"create script test Page "
+			],
+			[
+				"creat",
+				"create script test Page "
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"v",
+				"V8: Run JSHint"
+			],
+			[
+				"snipp",
+				"Snippet: Prototype"
+			],
+			[
+				"",
+				"Snippet: helloWorld"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 367.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/backup/demo/notwis/root.js",
+		"/D/backup/demo/notwis/README.md",
+		"/L/Sublime Text 2.0.1/Data/Packages/sublime-node-require/require_node.py",
+		"/L/Sublime Text 2.0.1/Data/Packages/sublime-node-require/require_node.sublime-settings",
+		"/L/Sublime Text 2.0.1/Data/Packages/sublime-node-require/Default (Windows).sublime-keymap",
+		"/D/backup/demo/notwis/node_modules.list",
+		"/D/backup/demo/notwis/configuration.js",
+		"/D/backup/demo/notwis/model/db.js",
+		"/D/backup/demo/notwis/tools.js",
+		"/L/Sublime Text 2.0.1/Data/Packages/User/Git.sublime-settings",
+		"/L/Sublime Text 2.0.1/Data/Packages/Git/Git.sublime-settings",
+		"/D/backup/demo/notwis/model/model-users.js",
+		"/D/backup/demo/notwis/model/model-posts.js",
+		"/D/backup/demo/notwis/model/model-follow.js",
+		"/D/backup/demo/notwis/action/logout.js",
+		"/D/backup/demo/notwis/action/login.js",
+		"/D/backup/demo/xiami/views/xiami-list.jade",
+		"/D/backup/demo/mongo_ver/view/index.html",
+		"/D/backup/demo/mongo_ver/model/book.js",
+		"/D/backup/demo/server.js",
+		"/D/backup/demo/mongo_ver/source/grid.js",
+		"/D/backup/demo/mongo_ver/source/utils.js",
+		"/D/backup/demo/mongo_ver/source/chart.js",
+		"/D/backup/shortcuts/diskpart_script.bat",
+		"/D/backup/demo/mongo_ver/dbtools/recoverbook.js",
+		"/L/mongodb/backup/books.json",
+		"/L/mongodb/backup/backupqidian_chapter.data",
+		"/D/backup/demo/mongo_ver/dbtools/readlines.js",
+		"/L/mongodb/backup/backupqidian_book.data",
+		"/L/mongodb/backup/out.bk",
+		"/D/backup/demo/mongo_ver/source/timeline.js",
+		"/D/backup/demo/mongo_ver/model/chapter.js",
+		"/D/backup/demo/mongo_ver/root.js",
+		"/D/backup/demo/mongo_ver/source/app.js",
+		"/D/backup/demo/ehentaiGrabber/root.js",
+		"/L/wamp/alias/复件 phpmyadmin.conf",
+		"/D/backup/demo/mongo_ver/model/db.js",
+		"/D/backup/demo/mongo_ver/shellTool.js",
+		"/D/backup/demo/mongo_ver/dbTools.js",
+		"/D/backup/demo/mongo_ver/bookinfo.js",
+		"/D/backup/JSs/share/libs/koHelper.js",
+		"/D/backup/site/mail/iProber.php",
+		"/D/backup/site/mail/mailtest.php",
+		"/D/backup/lolAccont.txt",
+		"/D/backup/demo/mongo_ver/view/index_ko_mg.html",
+		"/D/backup/demo/mongo_ver/index.html",
+		"/C/Documents and Settings/Administrator/桌面/未命名555.gif",
+		"/C/Documents and Settings/Administrator/桌面/未命名.gif",
+		"/D/backup/demo/qidianbook/root.js",
+		"/D/backup/demo/qidianbook/index_ko_mg.html",
+		"/D/backup/demo/picGrabber/testdb.js",
+		"/D/backup/demo/qidianbook/model_book.js",
+		"/D/backup/demo/qidianbook/bookdb.js",
+		"/D/backup/demo/qidianbook/root_mongoose.js",
+		"/D/backup/demo/qidianbook/checkBookUpdate.js",
+		"/D/backup/demo/xiami/xiamiInfo.js",
+		"/D/backup/demo/xiami/grabFromXiami.js",
+		"/D/backup/demo/xiami/source/app.js",
+		"/D/backup/demo/qidianbook/test.txt",
+		"/D/backup/demo/qidianbook/bookInfo_mongooose.js",
+		"/D/backup/demo/qidianbook/bookhelper.js",
+		"/D/backup/demo/qidianbook/model_chapter.js",
+		"/D/backup/demo/qidianbook/qidianbook.sublime-workspace",
+		"/L/downloads_chrome/[U・Me SOFT] Nanpa Nama Hame Nakadashi Banzai 5 - E-Hentai Galleries/EB04E8.jpg",
+		"/D/backup/demo/httpRange/root.js",
+		"/D/backup/demo/httpRange/testdns.js",
+		"/D/backup/nodelib/downloadHelper.js",
+		"/L/downloads_chrome/[U・Me SOFT] Nanpa Nama Hame Nakadashi Banzai 5 - E-Hentai Galleries/_cover.jpg",
+		"/L/downloads_chrome/[Astronauts Alya] Spocon- ~Sports Wear-Complex~ - E-Hentai Galleries/cover2.jpg",
+		"/D/backup/nodelib/bufferConcator.js",
+		"/D/backup/demo/danbooru/root.js",
+		"/D/backup/demo/picGrabber/picdb.js",
+		"/D/backup/demo/xiami/root.js",
+		"/D/backup/demo/qidianbook/index_ko.html",
+		"/D/backup/demo/views/xiami-list.jade",
+		"/L/mongodb/mongo.bat",
+		"/D/backup/shortcuts/testRar.js",
+		"/D/backup/shortcuts/testChildProcess.js",
+		"/D/backup/shortcuts/test.js",
+		"/D/backup/shortcuts/test.bat",
+		"/D/backup/shortcuts/queue.bat",
+		"/D/backup/shortcuts/queue.js",
+		"/D/backup/nodelib/grabMapper.js",
+		"/E/Program Files/腾讯游戏/英雄联盟/html/default-en.html",
+		"/E/Program Files/腾讯游戏/英雄联盟/html/settings-en.html",
+		"/L/nodeJs/node_modules/ws/install.js",
+		"/E/Program Files/腾讯游戏/英雄联盟/launcher_config.xml",
+		"/C/DOCUME~1/ADMINI~1/LOCALS~1/Temp/Rar$DR00.140/package/install.js",
+		"/L/nodeJs/node_modules/bson/install.js",
+		"/L/nodeJs/node_modules/hooker/package.json",
+		"/L/nodeJs/node_modules/http-error/package.json",
+		"/L/nodeJs/node_modules/http-error/error.js",
+		"/D/backup/chromePlugin/009 fileDownload/background.js",
+		"/D/backup/chromePlugin/009 fileDownload/background.html",
+		"/D/backup/demo/views/layout.jade",
+		"/D/backup/demo/views/testsubmit.jade",
+		"/D/backup/demo/httpPostForm/root.js",
+		"/D/backup/demo/danbooru/grabMapperver.js",
+		"/D/backup/nodelib/urlHelper.js",
+		"/D/backup/nodelib/hfs.js",
+		"/D/backup/nodelib/htmlhelper.js",
+		"/D/backup/demo/httpPostForm/httpPost.js",
+		"/D/backup/demo/imgserver/root.js",
+		"/D/backup/demo/qidianbook/bookInfo.js",
+		"/D/backup/chromePlugin/009 fileDownload/manifest.json",
+		"/D/backup/demo/imgserver/parsingQueue.js",
+		"/D/backup/chromePlugin/009 fileDownload/app.js",
+		"/D/backup/chromePlugin/009 fileDownload/list.html",
+		"/D/backup/demo/views/rss.jade",
+		"/D/backup/chromePlugin/009 fileDownload/wrapper.html",
+		"/D/backup/chromePlugin/008 bugReply/manifest.json",
+		"/D/backup/chromePlugin/008 bugReply/js/background.js",
+		"/D/backup/demo/chatroom/root.js",
+		"/D/backup/demo]",
+		"/D/backup/demo/chatroom/app/app.js",
+		"/D/backup/demo/chatroom/index.html",
+		"/D/backup/demo/imgserver/multiUpload.js",
+		"/D/backup/nodelib/queue.js",
+		"/D/backup/nodelib/step.js",
+		"/D/backup/nodelib/testQueue.js",
+		"/O/杉本女医の淫乱痴療/mackydata/data.dat",
+		"/D/backup/demo/xiami/17_1771137985_3533763.mp3",
+		"/D/backup/demo/xiami/02_1770851057_3228047.mp3",
+		"/D/backup/demo/xiami/grabtestApi.js",
+		"/D/backup/demo/xiami/grabFromXiami.mp3",
+		"/D/backup/nodelib/test/testQueue.js",
+		"/L/Sublime Text 2.0.1/Data/Packages/Emmet/emmet-plugin.py",
+		"/L/Sublime Text 2.0.1/Data/Packages/Emmet/emmet/context.py"
+	],
+	"find":
+	{
+		"height": 82.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+			"<open folders>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"arguemtns",
+			"=",
+			" =",
+			"final",
+			" u ",
+			"node_modules",
+			"NODE_MODULES_LIST",
+			"open",
+			"configuration",
+			"tools",
+			"binary",
+			"db.",
+			"multi",
+			"changeUserSession",
+			"username",
+			"changeUserSession",
+			"callback",
+			"newPost",
+			"followers",
+			"}",
+			"\"",
+			"=",
+			" =",
+			"tools",
+			"configuration",
+			"require",
+			"right",
+			"chapter",
+			"main",
+			"bookInfos",
+			"wrap",
+			"showTable",
+			"showTable ",
+			"table",
+			">",
+			"jade",
+			"checkAllUpdate",
+			"CHAPTER_VIEW_DATA",
+			"Chapter",
+			"chapter",
+			"Chapter",
+			"\\",
+			"\\,\\n\\n",
+			"\"lastModify\": \\d*,\\n",
+			"  \"__v\": 0",
+			"\\s*\"lastModify\": \\d*,\\n",
+			"\"__v\" : 0,",
+			"min",
+			"x",
+			"readed",
+			"chapter",
+			"simple",
+			"display",
+			":''",
+			",",
+			"x",
+			"paper",
+			"viewType",
+			"self.view",
+			"viewType",
+			"grouped",
+			"showChapters",
+			"grouped",
+			"getAnchors",
+			"timeline",
+			"height",
+			"0.5",
+			"a",
+			"=",
+			" =",
+			"color",
+			"height - bottomgutter",
+			"r",
+			"ii",
+			"txt1",
+			"t",
+			"labels",
+			"lx",
+			"blanket",
+			"is_label_visible",
+			"frame",
+			"leftgutter",
+			"upperHalf(x)",
+			"showChapters",
+			"groupedChapters",
+			"=",
+			"    =",
+			"getLatest",
+			"showChapters",
+			"div",
+			"load book latest",
+			"getLatest",
+			"showChapters",
+			"if",
+			"all",
+			"latestChapter",
+			"Chapter",
+			"child_process",
+			"util",
+			"Chapter",
+			"Book",
+			" '",
+			"Chapter",
+			"NETSCAPE",
+			"LOP",
+			"$GIF_lop",
+			"loop",
+			"$LOP",
+			"Book",
+			"\"",
+			",",
+			"loadLib",
+			"loadlib",
+			"loadLib",
+			"loadlib",
+			"loadLib",
+			"_",
+			"bookInfo_mongooose",
+			"\\",
+			"curBook",
+			" );",
+			"bookId",
+			"bookid",
+			"bookId",
+			"bookid",
+			"bookId",
+			"bookid",
+			"bookId"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"view",
+			"<",
+			"emit",
+			"_path",
+			"script($1)",
+			"$1: $item.find(\"$1\").text(),",
+			"$1: $channel.find(\"$1\").text(),",
+			"$1: $channel.find(\"$1\")",
+			"callback",
+			"  ",
+			"{}",
+			"mongoose",
+			"  ",
+			"post",
+			"  ",
+			"test1",
+			",",
+			"\\\"",
+			"../../../../",
+			"",
+			"../../../../",
+			"../../../",
+			"../../",
+			"../",
+			".",
+			"\\n",
+			"/",
+			"\"",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "action/regist.js",
+					"settings":
+					{
+						"buffer_size": 1135,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1135,
+								1135
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "action/post.js",
+					"settings":
+					{
+						"buffer_size": 481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								130,
+								130
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "action/showpost.js",
+					"settings":
+					{
+						"buffer_size": 500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								500,
+								500
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "action/follow.js",
+					"settings":
+					{
+						"buffer_size": 461,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "action/unfollow.js",
+					"settings":
+					{
+						"buffer_size": 470,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16,
+								16
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "action/profile.js",
+					"settings":
+					{
+						"buffer_size": 720,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								464,
+								464
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 384.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "model/model-follow.js",
+					"settings":
+					{
+						"buffer_size": 1216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								803,
+								803
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 505.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "source/ec.js",
+					"settings":
+					{
+						"buffer_size": 2821,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1813,
+								1813
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1728.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 191.0
+	},
+	"input":
+	{
+		"height": 47.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 233.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 190.0
+	},
+	"output.jsconsole_view":
+	{
+		"height": 202.0
+	},
+	"output.jshint_view":
+	{
+		"height": 202.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 160.0
+	},
+	"replace":
+	{
+		"height": 92.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"en",
+				"/D/backup/demo/ehentaiGrabber/ehentaiGrabber.sublime-project"
+			],
+			[
+				"",
+				"/D/backup/demo/qidianbook/qidianbook.sublime-project"
+			],
+			[
+				"qi",
+				"/D/backup/demo/qidianbook/qidianbook.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true
+}
