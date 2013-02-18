@@ -1,0 +1,23 @@
+script(type="text/jade",id="regist").
+  .panel-regist.bs-docs-area
+    .label regist
+    .form-horizontal 
+      .control-group
+        label.control-label username
+        .controls
+          input(type="text",data-bind="value:username")
+      .control-group
+        label.control-label password
+        .controls
+          input(type="text",data-bind="value:password")
+      .control-group
+        label.control-label confirm password
+        .controls
+          input(type="text",data-bind="value:password2")
+      .control-group
+        .controls
+          .btn-group
+            button.btn(data-bind="click:regist") regist
+          .btn-group
+            button.btn(data-bind="click:login") login
+

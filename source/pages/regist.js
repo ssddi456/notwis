@@ -1,6 +1,9 @@
 define([
-],function() {
+  'ec'
+],function( 
+  ec
 
+){
   function registModule ( req ){
     this.username = ko.observable('');
     this.password = ko.observable('');
@@ -14,7 +17,11 @@ define([
       },function(res){
         console.log(res);
       })
+
     };
+    this.login  = function() {
+      ec.fire('loadpage','login');
+    }
   }
   return registModule;    
 

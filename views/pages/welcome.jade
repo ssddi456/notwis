@@ -1,0 +1,17 @@
+script(type="text/jade",id="welcome").
+  .panel-content
+    .bs-docs-area
+      .label input phone number
+      .control-group(data-bind="css:{warning:phoneWarning,success:phoneSuccess}")
+        .form-inline
+          .input-append
+            input.span2#appendedInputButton(type="text",data-bind="value:searchNumber")
+            button.btn(type="button",data-bind="click:searchUserInfo") Go!
+          .help-inline(data-bind="text:errorInfo")
+    +ko("if:curUser")
+      .bs-docs-area
+        .label user info
+    
+    +ko("if:productInfo")
+      .bs-docs-area
+        .label product info

@@ -26,14 +26,14 @@ define([],function() {
 
   ec.on   = function( type, handle ) {
     var namespace = namespacefilter(type);
-    namespace.add.apply(handle);
+    namespace.add(handle);
   };
 
   ec.unbind=function(type, handle){
 
     var namespace = namespacefilter(type);
     if(handle){
-      namespace.remove.apply(handle);
+      namespace.remove(handle);
     } else {
       namespace.empty();
     }
@@ -128,4 +128,5 @@ define([],function() {
       return;
     }
   }
+  return ec;
 })

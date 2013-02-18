@@ -1,5 +1,6 @@
 var router = {};
 var path = require('path');
+var fs = require('fs');
 
 router.welcome = 'index';
 

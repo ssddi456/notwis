@@ -1,15 +1,15 @@
 require([
-  'ec',
-  'login',
-  'regist',
-  'content'
-],
-function( login, regist, content ){
-  var req = new tools.request('notwis/');
+  'ec', 'pages'
+],function( 
+  ec, pages
+){
+  
+  var $view = $('#container');
 
-  ko.applyBindings(new login(req),  $('.panel-login')[0] );
-  ko.applyBindings(new regist(req), $('.panel-regist')[0] );
-  ko.applyBindings(content, $('.panel-content')[0] );
-
-
+  ec.on('loadpage',function( page ) {
+    ko.cleanNode( $view[0] );
+    $view.html( pages[page].render() );
+    ko.applyBindings( pages[page] );
+  })
+  ec.fire('loadpage','login');
 })()

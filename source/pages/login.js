@@ -10,13 +10,19 @@ define([
       req.post('login',{
         username        : this.username(),
         password        : this.password()
-      },function( res ){
-        console.log( res );
-      })
+      },function( err, res ){
+        if( err ){
+          console.log( err );
+        }
+        ec.fire('loadpage','welcome');
+      });
+
     };
+
     this.regist   = function(){
-      
+      ec.fire('loadpage','regist');
     }
+
   }
   return loginModule;    
 })
